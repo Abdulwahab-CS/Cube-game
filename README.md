@@ -1,7 +1,10 @@
 # Cube-game
 Simple JavaScript game based on cube dice
 
-screenshot for the game
+It's a practice on some javaScript main concepts.<br>
+It's part of a JavaScript course.
+
+<h4>Screenshot for the game</h4>
 
 <img src="screenshots/Cube-game-img.png" width="90%">
 
