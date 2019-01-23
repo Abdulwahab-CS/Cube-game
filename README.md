@@ -1,5 +1,5 @@
 # Cube-game
-Simple JavaScript game based on cube dice
+Simple JavaScript game based on cube dice. Played by two players.
 
 It's a practice on some javaScript main concepts.<br>
 It's part of a JavaScript course.
